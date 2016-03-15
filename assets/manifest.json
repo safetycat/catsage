@@ -12,16 +12,16 @@
       ],
       "main": true
     },
-    "editor-style.css": {
+    "customizer.js": {
       "files": [
-        "styles/editor-style.scss"
+        "scripts/customizer.js"
       ]
     },
-    "modernizr.js": {
-      "bower": ["modernizr"]
+    "jquery.js": {
+      "bower": ["jquery"]
     }
   },
   "config": {
-    "devUrl": "http://example.dev"
+    "devUrl": "http://roots/"
   }
 }
